@@ -1,0 +1,11 @@
+c:\users\quantumffyan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\WindowsFormsApplication1.exe.config
+c:\users\quantumffyan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\WindowsFormsApplication1.exe
+c:\users\quantumffyan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\WindowsFormsApplication1.pdb
+c:\users\quantumffyan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+c:\users\quantumffyan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\quantumffyan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\quantumffyan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+c:\users\quantumffyan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+D:\各类文件驱动\tomgraphy_YM\WindowsFormsApplication1\bin\x86\Release\WindowsFormsApplication1.exe.config
+D:\各类文件驱动\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+D:\各类文件驱动\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb

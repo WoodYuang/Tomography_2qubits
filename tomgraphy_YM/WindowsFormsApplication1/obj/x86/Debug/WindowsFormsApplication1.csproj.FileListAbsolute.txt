@@ -1,0 +1,63 @@
+c:\users\quantumffyan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+c:\users\quantumffyan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+c:\users\quantumffyan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+c:\users\quantumffyan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\quantumffyan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\quantumffyan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\quantumffyan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\quantumffyan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\quantumffyan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\各类文件驱动\tomgraphy_YM\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+D:\各类文件驱动\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\各类文件驱动\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\各类文件驱动\tomgraphy_YM\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+D:\各类文件驱动\tomgraphy_YM\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+D:\各类文件驱动\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\各类文件驱动\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\各类文件驱动\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\各类文件驱动\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\tomgraphy_YM\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\tomgraphy_YM\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\tomgraphy_YM\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Mu Yang\Desktop\tomgraphy_YM\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mu Yang\Desktop\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Mu Yang\Desktop\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mu Yang\Desktop\tomgraphy_YM\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Mu Yang\Desktop\tomgraphy_YM\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mu Yang\Desktop\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Mu Yang\Desktop\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mu Yang\Desktop\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mu Yang\Desktop\tomgraphy_YM\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\tomgraphy_YM_cla\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\tomgraphy_YM_cla\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\tomgraphy_YM_cla\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla2.0\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla2.0\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla2.0\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mu Yang\Desktop\tomgraphy_YM_cla2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\tomgraphy_YM_cla2.0\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\tomgraphy_YM_cla2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Mu Yang\Documents\Visual Studio 2015\Projects\tomgraphy_YM_cla2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Documents\Visual Studio 2015\Projects\tomgraphy_YM_cla2.0\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+D:\Documents\Visual Studio 2015\Projects\tomgraphy_YM_cla2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Documents\Visual Studio 2015\Projects\tomgraphy_YM_cla2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
